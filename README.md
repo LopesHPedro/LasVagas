@@ -8,4 +8,4 @@ A tecnologia avança cada vez mais rápido, ferramentas caem em desuso e a cada 
 
 ### Objetivo:
 
-Pensando em um meio de solucionar o problema apresentado acima, esse projeto visa coletar, analisar, extrair e criar visualizações de informações sobre empregos na área de dados, fornecendo insights que serão úteis para guiar e servir como um norte sobre quais as competências esperadas e palavras-chave para vagas na área de dados.
+Pensando em um meio de solucionar o problema apresentado acima, esse projeto visa analisar, extrair e criar visualizações de informações sobre empregos na área de dados, fornecendo insights que serão úteis para guiar e servir como um norte sobre quais as competências esperadas e palavras-chave para vagas na área de dados.
